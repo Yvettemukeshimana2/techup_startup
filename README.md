@@ -12,7 +12,7 @@
 
   The SMART Wheelchair project endeavors to design and develop a cutting-edge mobility device that combines advanced technology and user-centric features to empower individuals with physical disabilities. The primary goal is to enhance mobility, independence, and overall quality of life for wheelchair users.
 ## Key Features:
-# Embedded Systems Integration:
+ # Embedded Systems Integration:
 The SMART Wheelchair incorporates sophisticated embedded systems to seamlessly integrate various components and ensure smooth operation. These systems will facilitate real-time data processing and communication between different parts of the wheelchair.
 # Sensor Technology: 
 Advanced sensors, such as proximity sensors, ultrasonic sensors, and possibly cameras, are integrated into the wheelchair to provide comprehensive environmental perception. These sensors enable obstacle detection, allowing the wheelchair to navigate safely in various indoor and outdoor environments.
