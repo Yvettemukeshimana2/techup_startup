@@ -14,15 +14,15 @@
 ## Key Features:
  ### Embedded Systems Integration:
 The SMART Wheelchair incorporates sophisticated embedded systems to seamlessly integrate various components and ensure smooth operation. These systems will facilitate real-time data processing and communication between different parts of the wheelchair.
-# Sensor Technology: 
+### Sensor Technology: 
 Advanced sensors, such as proximity sensors, ultrasonic sensors, and possibly cameras, are integrated into the wheelchair to provide comprehensive environmental perception. These sensors enable obstacle detection, allowing the wheelchair to navigate safely in various indoor and outdoor environments.
-# Navigation Assistance:
+### Navigation Assistance:
 Utilizing GPS technology or alternative localization methods, the SMART Wheelchair offers intelligent navigation assistance to users. It can generate optimal routes, provide turn-by-turn directions, and offer rerouting options to navigate complex environments efficiently.
-# User-Friendly Controls: 
+### User-Friendly Controls: 
 The SMART Wheelchair prioritizes user comfort and convenience through intuitive controls. The interface is designed with accessibility in mind, featuring customizable control options tailored to individual user preferences and capabilities.
-# Safety Mechanisms: 
+### Safety Mechanisms: 
 Robust safety features are incorporated to ensure the well-being of users. This includes collision avoidance mechanisms, emergency stop functionalities, and automated speed adjustments based on the surrounding environment.
-# Connectivity and Data Analysis: 
+### Connectivity and Data Analysis: 
 The wheelchair may leverage connectivity capabilities to interact with external devices or platforms, enabling features such as remote monitoring, data logging, and analysis of usage patterns to improve user experience and optimize functionality.
 # Objectives:
 Enhance mobility and autonomy for individuals with physical disabilities.
