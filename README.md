@@ -1,4 +1,4 @@
-# Yvette Mukeshimana
+## Yvette Mukeshimana
 ## ABOUT ME 
   Hi, I'm Yvette Mukeshimana! I have studied Computer and Software Engineering at level 3. 
   I took a software training at KLab, where I gained valuable skills in software development.
@@ -24,7 +24,7 @@ The SMART Wheelchair prioritizes user comfort and convenience through intuitive 
 Robust safety features are incorporated to ensure the well-being of users. This includes collision avoidance mechanisms, emergency stop functionalities, and automated speed adjustments based on the surrounding environment.
 ### Connectivity and Data Analysis: 
 The wheelchair may leverage connectivity capabilities to interact with external devices or platforms, enabling features such as remote monitoring, data logging, and analysis of usage patterns to improve user experience and optimize functionality.
-# Objectives:
+## Objectives:
 Enhance mobility and autonomy for individuals with physical disabilities.
 Provide obstacle detection and navigation assistance for safe and efficient maneuvering.
 Ensure user-friendly controls and customizable options to accommodate diverse needs.
