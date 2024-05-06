@@ -9,10 +9,7 @@
    electronic devices, which enhanced my understanding of hardware-software integration.
    I'm passionate about exploring the intersection of hardware and software development.
 
-   on this project is done by   
-   ### NDAGIJIMANA JEAN DE DIEU work on hardware
-   ### AND
-   ### MUKESHIMANA YVETTE work on software 
+   
   ## PROJECT TITLE: SMART IRRIGATION
 
 This project develops a smart irrigation system using sensor, pump, and control nodes to optimize water usage in agriculture by monitoring soil moisture, weather conditions, and water flow. It aims to conserve water, enhance crop yield and quality, and promote sustainability. Hardware includes sensors, communication modules, actuators, power supplies, and infrastructure. Software encompasses firmware, communication protocols, data processing, and a user interface. The system achieves its goals through real-time monitoring, automated control, precision irrigation, and data analysis, ultimately offering water and energy savings, increased yields, improved crop quality, and positive environmental impacts.
@@ -84,6 +81,19 @@ Processes sensor data to make decisions on irrigation.
 Web/Mobile Application: Allows users to monitor and control the irrigation system remotely.
 Dashboard: Displays sensor data, system status, and control options.
 
+#0969DA this project is done by   
+   ### NDAGIJIMANA JEAN DE DIEU work on hardware AND
+   ### MUKESHIMANA YVETTE work on software 
+   ### in additionally we can work together for both 
+
+  ### NDAGIJIMANA JEAN DE DIEU 
+  #### GITHUB LINK: 
+  [GitHub Repository](https://github.com/jado-paradox/Talent4startUp/blob/25f0e179f1b9954fbaed34c35b656c914f6db1ae/README.md)
+  #### EMAIL:jadojadoson@gmail.com
+  ### MUKESHIMANA YVETTE
+  #### GITHUB LINK:
+  #### EMAIL:mukeshimanayvette2@gmail.com
+   
 
 
   
