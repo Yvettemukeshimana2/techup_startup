@@ -81,17 +81,17 @@ Processes sensor data to make decisions on irrigation.
 Web/Mobile Application: Allows users to monitor and control the irrigation system remotely.
 Dashboard: Displays sensor data, system status, and control options.
 
-#0969DA this project is done by   
+  ## this project is done by   
    ### NDAGIJIMANA JEAN DE DIEU work on hardware AND
    ### MUKESHIMANA YVETTE work on software 
    ### in additionally we can work together for both 
 
   ### NDAGIJIMANA JEAN DE DIEU 
-  #### GITHUB LINK:  [jean de dieu Repository](https://github.com/jado-paradox/Talent4startUp/blob/25f0e179f1b9954fbaed34c35b656c914f6db1ae/README.md) 
-  #### EMAIL: jadojadoson@gmail.com
+  ### GITHUB LINK:  [jean de dieu Repository](https://github.com/jado-paradox/Talent4startUp/blob/25f0e179f1b9954fbaed34c35b656c914f6db1ae/README.md)
+  ### EMAIL: jadojadoson@gmail.com
   ### MUKESHIMANA YVETTE
-  #### GITHUB LINK:
-  #### EMAIL:mukeshimanayvette2@gmail.com
+  ### GITHUB LINK:
+  ### EMAIL:mukeshimanayvette2@gmail.com
    
 
 
